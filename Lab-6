@@ -4,3 +4,6 @@ Console.WriteLine("2. Oil");
 Console.WriteLine("3. Suger ");
 Console.WriteLine("4. Ketchup ");
 Console.WriteLine("5. Tomato");
+
+
+Console.WriteLine("7. Salt");
