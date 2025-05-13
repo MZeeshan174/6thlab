@@ -7,3 +7,4 @@ Console.WriteLine("5. Tomato");
 
 
 Console.WriteLine("7. Salt");
+Console.WriteLine("6. Potato");
