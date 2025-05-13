@@ -1,0 +1,6 @@
+Console.WriteLine("List of Grocery Items:");
+Console.WriteLine("1. Rice");
+Console.WriteLine("2. Oil");
+Console.WriteLine("3. Suger ");
+Console.WriteLine("4. Ketchup ");
+Console.WriteLine("5. Tomato");
